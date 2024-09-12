@@ -45,6 +45,7 @@ I am an **IT Specialist**, **Junior Software Developer**, and **Cybersecurity Sp
 
 ### 📈 GitHub Stats:
 ![Albanus's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbanusMuange1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbanusMuange1&layout=compact&theme=radical)
 
 ---
 
