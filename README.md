@@ -2,7 +2,7 @@ Hi 👋, I’m Albanus Muange.
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Junior Software Developer/Cybersecurity Specialist
 ___________________________________________________________________________________________________________________________________________
-I am a skilled Junior Software Developer who has a passion for developing cutting-edge systems that increase a company's efficacy and efficiency. I also have the aptitude to comprehend and test software, practical knowledge of software development, and a solid grasp of the fundamental internet technologies. Capable of writing code and understanding technology well enough to create stable and user-friendly solutions.
+I am an IT Specialist, Junior Software Developer, and Cybersecurity Specialist with a passion for technology and problem-solving. With a strong foundation in software development and network security, I excel at providing innovative solutions and ensuring seamless IT operations.
 
 - 🌱 I’m currently learning new languages.
 - 💞️ I’m looking to collaborate on any projects.
