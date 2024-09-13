@@ -1,8 +1,11 @@
 # Hi 👋, I'm Albanus Muange!
 
 ### Junior Software Developer | Cybersecurity Specialist
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlbanusMuange1&label=Profile%20views&color=0e75b6&style=flat" alt="AlbanusMuange" /> </p>
 I am an **IT Specialist**, **Junior Software Developer**, and **Cybersecurity Specialist** with a passion for leveraging technology to solve real-world problems. I have a strong foundation in software development and network security, where I focus on creating innovative solutions while ensuring seamless and secure IT operations.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AlbanusMuange1&label=Profile%20views&color=0e75b6&style=flat" alt="AlbanusMuange1" />
+</p>
 
 🔭 **Currently working on**: Expanding my knowledge in cloud computing and AI-powered security solutions.  
 🌱 **Learning**: Continuously improving my skills in **Python**, **Django**, **JavaScript**, and **Cybersecurity tools**.  
@@ -46,9 +49,10 @@ I am an **IT Specialist**, **Junior Software Developer**, and **Cybersecurity Sp
 ### 📈 GitHub Stats:
 ![Albanus's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbanusMuange1&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbanusMuange1&layout=compact&theme=radical)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlbanusMuange1&show_icons=true&locale=en" alt="AlbanusMuange1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlbanusMuange1&" alt="AlbanusMuange1" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbanusMuange1&theme=radical" alt="AlbanusMuange1's GitHub Streak" />
+</p>
 ---
 
 ### 🤝 Let's Connect:
