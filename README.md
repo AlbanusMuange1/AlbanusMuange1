@@ -9,7 +9,7 @@ I am an **IT Specialist**, **Junior Software Developer**, and **Cybersecurity Sp
 
 🔭 **Currently working on**: Expanding my knowledge in cloud computing and AI-powered security solutions.  
 🌱 **Learning**: Continuously improving my skills in **Python**, **Django**, **JavaScript**, and **Cybersecurity tools**.  
-💬 **Looking to collaborate**: On projects related to **cybersecurity**, **web development**, **IoT**, and **automation**.  
+💬 **Looking to collaborate**: On projects related to **cybersecurity**, and **web development**.  
 📫 **How to reach me**: [albanusmuangemutunga@gmail.com](mailto:albanusmuangemutunga@gmail.com)  
 🌍 **Location**: Currently based in **Kenya**.  
 💻 **Portfolio**: [My Portfolio](https://albanus-muange-mutunga-portfolio.vercel.app/)
@@ -49,10 +49,10 @@ I am an **IT Specialist**, **Junior Software Developer**, and **Cybersecurity Sp
 ### 📈 GitHub Stats:
 ![Albanus's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbanusMuange1&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbanusMuange1&layout=compact&theme=radical)
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbanusMuange1&theme=radical" alt="AlbanusMuange1's GitHub Streak" />
 </p>
+
 ---
 
 ### 🤝 Let's Connect:
