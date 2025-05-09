@@ -35,8 +35,6 @@ I am an **IT Specialist**, **Junior Software Developer**, and **Cybersecurity Sp
 
 #### **Databases**:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### **Cybersecurity Skills**:
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
