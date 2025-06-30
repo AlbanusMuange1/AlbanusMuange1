@@ -1,7 +1,7 @@
 # Hi 👋, I'm Albanus Muange!
 
 ### Junior Software Developer | Cybersecurity Specialist
-I am an **IT Specialist**, **Junior Software Developer**, and **Cybersecurity Specialist** with a passion for leveraging technology to solve real-world problems. I have a strong foundation in software development and network security, where I focus on creating innovative solutions while ensuring seamless and secure IT operations.
+I am an **IT Support Specialist**, **Junior Software Developer**, and **Cybersecurity Specialist** with a passion for leveraging technology to solve real-world problems. I have a strong foundation in software development and network security, where I focus on creating innovative solutions while ensuring seamless and secure IT operations.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AlbanusMuange1&label=Profile%20views&color=0e75b6&style=flat" alt="AlbanusMuange1" />
